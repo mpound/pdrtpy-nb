@@ -2,7 +2,7 @@
 PhotoDissociation Region Toolbox Python Notebooks
 *************************************************
 
-*Reliable astrophysics at everyday low, low prices!* &#174
+*Reliable astrophysics at everyday low, low prices!* &reg;
 
 These are Jupyter notebook examples of how to use [**pdrtpy**](https://pdrtpy.readthedocs.io>), an
 analysis package for photodissociation regions (PDRs).
