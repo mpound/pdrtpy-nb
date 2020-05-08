@@ -2,7 +2,7 @@
 PhotoDissociation Region Toolbox Python Notebooks
 *************************************************
 
-*Reliable astrophysics at everyday low, low prices!* |reg| 
+*Reliable astrophysics at everyday low, low prices!* &#174
 
 These are Jupyter notebook examples of how to use [**pdrtpy**](https://pdrtpy.readthedocs.io>), an
 analysis package for photodissociation regions (PDRs).
@@ -34,9 +34,5 @@ Then play with the notebooks however you like.  Please report any issues you hav
 
 Requirements
 ------------
-Python 3 and recent versions of  astropy, numpy, scipy, matplotlib, jupyter.
+Python 3 and recent versions of astropy, numpy, scipy, matplotlib, jupyter.
 
-.. |reg|    unicode:: U+000AE .. REGISTERED SIGN
-.. |13C|    replace:: :sup:`13`\ C
-.. |13CO|   replace:: :sup:`13`\ CO
-.. |13CII|  replace:: [\ :sup:`13`\ C II]
