@@ -28,7 +28,7 @@ How to Use
 It's very easy:
 
     cd pdrtpy-nb
-    jupyter notebook
+    jupyter notebook (or jupyter-lab)
 
 Then play with the notebooks however you like.  Please report any issues you have!
 
