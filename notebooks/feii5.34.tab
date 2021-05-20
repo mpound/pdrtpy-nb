@@ -1,0 +1,7 @@
+|identifier           | data | uncertainty |
+|char                 | float|  float      | 
+|                     |      |             |
+| null                | null |   null      |
+ FEII_1.64/FEII_5.34    0.3    0.05
+ FEII_1.64/FEII_5.34    0.1    0.05
+ FEII_1.64/FEII_5.34    1.0    0.25
