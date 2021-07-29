@@ -1,0 +1,11 @@
+|identifier | data |uncertainty|  bmaj | bmin  | bpa    |
+|char       | float|  float    | float | float | float  |
+|           | Jy   |  Jy       | arcsec| arcsec| degree |
+ CO_2-1       2e5       123.4     10       4     23.2
+ CO_3-2      3e5       432.1     25      25     0.0
+ CO_4-3      4e5       1000.     5.2     3.3     -78.0
+ CII_158     5e5       2000.0    1.1E2  1.1e2    0
+ H200S4      6e5       8000.0    14.7      24.3  -16.99
+ FIR         7e5       1.8e3     31.4     19.26  53.59   
+ H200S6      8e5       0.29E4     1        1      1
+ H200S7      9e5       3333      48       49      50
