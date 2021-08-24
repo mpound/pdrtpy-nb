@@ -28,11 +28,11 @@ How to Use
 It's very easy:
 
     cd pdrtpy-nb
-    jupyter notebook (or jupyter-lab)
+    jupyter notebook (or jupyter lab)
 
 Then play with the notebooks however you like.  Please report any issues you have!
 
 Requirements
 ------------
-Python 3 and recent versions of astropy, numpy, scipy, matplotlib, jupyter.
+Python 3 and recent versions of astropy, numpy, scipy, matplotlib, jupyter, lmfit.
 
