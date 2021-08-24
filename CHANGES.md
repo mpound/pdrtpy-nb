@@ -1,6 +1,6 @@
 ## Change Log
 
-### Version 2.1.0
+### Version 2.1.1
 
 - Named version with track pdrtpy version and check they are the same
 - add H2 Excitation fitting notebook
