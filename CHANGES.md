@@ -1,5 +1,11 @@
 ## Change Log
 
+### Version 2.2.7
+
+- Added example notebook for adding models to ModelSet
+- Better explanation of OPR in H2 notebook
+- More realistic example Measurements in single pixel (n,G0) fitting
+
 ### Version 2.1.1
 
 - Named version with track pdrtpy version and check they are the same

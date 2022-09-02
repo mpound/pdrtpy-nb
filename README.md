@@ -34,5 +34,5 @@ Then play with the notebooks however you like.  Please report any issues you hav
 
 Requirements
 ------------
-Python 3 and recent versions of astropy, numpy, scipy, matplotlib, jupyter, lmfit.
+Python 3 and recent versions of astropy, numpy, scipy, matplotlib, jupyter, lmfit, emcee, corner.
 
