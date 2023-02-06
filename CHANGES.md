@@ -1,5 +1,10 @@
 ## Change Log
 
+### Version 2.3.1
+
+- added notebook PDRToolboxDemo.ipynb and PDRToolboxDemo\_slides.html that were used in the Dec 6, 2022 JWST webinar
+- minor changes to a couple other notebooks
+
 ### Version 2.2.7
 
 - Added example notebook for adding models to ModelSet
