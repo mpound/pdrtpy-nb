@@ -3,6 +3,7 @@
 ### Version 3.0.1
 
 - Split PDRT_Example_H2_Excitation.ipynb: map/image fitting moved to new notebook PDRT_Example_H2_Excitation_Maps.ipynb
+- Update LineRatio fit maps notebook to use new SMC models and demonstrate limiting density and radiation field ranges
 
 ### Version 2.2.7
 
